@@ -1,0 +1,19 @@
+.border-none {
+  border: none;
+}
+
+.bg-gray {
+  background-color: #f1f1f1;
+}
+
+.btn-bg {
+  background-color: #a4bc46;
+}
+
+.btn-bg {
+  background-color: #a4bc46;
+}
+
+.header-height {
+  min-height: 100vh;
+}
